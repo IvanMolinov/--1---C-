@@ -7,6 +7,18 @@
 //     Console.WriteLine(b);
 // else Console.WriteLine("Числа равны");
 
-
-
-
+// Задача 4
+// int a = Convert.ToInt32(Console.ReadLine());
+// int b = Convert.ToInt32(Console.ReadLine());
+// int c = Convert.ToInt32(Console.ReadLine());
+// int max = a;
+// if (a > b)
+// {
+//     if (a < c)
+//     max = c;
+// }
+// else if (b > c)
+//     max = b;
+//     else 
+//     max = c;
+// Console.WriteLine(max);
