@@ -26,6 +26,19 @@
 // Задача 6
 // int a = Convert.ToInt32(Console.ReadLine());
 // if (a % 2 == 0)
-//     Console.WriteLine("Четное");
+//    Console.WriteLine("Четное");
 // else
-//     Console.WriteLine("Нечетное");
+//    Console.WriteLine("Нечетное");
+
+// Задача 8
+// int N = Convert.ToInt32(Console.ReadLine());
+// for (int i = 2; i <= N; i += 2)
+// {   
+//     Console.Write(i);
+//     Console.Write(",");
+// }
+
+
+
+
+
