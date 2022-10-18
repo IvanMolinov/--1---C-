@@ -1,0 +1,15 @@
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/дз1семC#.csproj.AssemblyReference.cache
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/дз1семC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/дз1семC#.AssemblyInfoInputs.cache
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/дз1семC#.AssemblyInfo.cs
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/дз1семC#.csproj.CoreCompileInputs.cache
+/Users/ivan/Desktop/дз1семC#/bin/Debug/net6.0/дз1семC#
+/Users/ivan/Desktop/дз1семC#/bin/Debug/net6.0/дз1семC#.deps.json
+/Users/ivan/Desktop/дз1семC#/bin/Debug/net6.0/дз1семC#.runtimeconfig.json
+/Users/ivan/Desktop/дз1семC#/bin/Debug/net6.0/дз1семC#.dll
+/Users/ivan/Desktop/дз1семC#/bin/Debug/net6.0/дз1семC#.pdb
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/дз1семC#.dll
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/refint/дз1семC#.dll
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/дз1семC#.pdb
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/дз1семC#.genruntimeconfig.cache
+/Users/ivan/Desktop/дз1семC#/obj/Debug/net6.0/ref/дз1семC#.dll
